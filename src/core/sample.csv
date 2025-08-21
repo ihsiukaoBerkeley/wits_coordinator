@@ -1,0 +1,101 @@
+order_id,product,category,return_reason,cost,approved_flag,store_name,date
+1001,Headphones,Electronics,Defective,128,Yes,Riverdale Outlet,2025-01-18
+1002,Headphones,Electronics,Warranty Claim,105,No,Brooklyn Center,2025-01-04
+1003,Headphones,Electronics,Not Compatible,110,Yes,Greenfield Center,2025-01-26
+1004,Keyboard,Accessories,Missing Accessories,41,No,Brooklyn Center,2025-01-21
+1005,Camera,Electronics,Damaged on Arrival,606,Yes,Bayview Plaza,2025-01-14
+1006,Headphones,Electronics,Missing Accessories,105,No,Harbor Point,2025-02-03
+1007,Phone Case,Accessories,Wrong Item Shipped,15,No,SoMa Market,2025-03-12
+1008,Tablet,Electronics,Performance Issues,334,No,Harbor Point,2025-01-25
+1009,Headphones,Electronics,Defective,125,No,SoMa Market,2025-01-30
+1010,Headphones,Electronics,Missing Accessories,112,No,Capitol Plaza,2025-02-17
+1011,Smartwatch,Electronics,Not Compatible,210,Yes,Harbor Point,2025-03-23
+1012,Laptop,Electronics,Warranty Claim,1015,Yes,Sunnyvale Town,2025-02-18
+1013,Tablet,Electronics,Warranty Claim,274,No,Brooklyn Center,2025-01-30
+1014,Phone Case,Accessories,Damaged on Arrival,14,Yes,Riverdale Outlet,2025-03-14
+1015,Smartwatch,Electronics,Not Compatible,209,No,Sunnyvale Town,2025-01-19
+1016,Tablet,Electronics,Broken Screen,277,No,Harbor Point,2025-02-24
+1017,Mouse,Accessories,Missing Accessories,23,Yes,Greenfield Center,2025-03-05
+1018,Headphones,Electronics,Defective,132,Yes,Capitol Plaza,2025-03-29
+1019,Camera,Electronics,Performance Issues,564,No,Harbor Point,2025-03-01
+1020,Keyboard,Accessories,Battery Issue,51,Yes,SoMa Market,2025-03-29
+1021,Keyboard,Accessories,Battery Issue,48,No,SoMa Market,2025-02-07
+1022,Camera,Electronics,Broken Screen,640,No,Greenfield Center,2025-01-23
+1023,Keyboard,Accessories,Changed Mind,50,No,Greenfield Center,2025-03-19
+1024,Charger,Accessories,Broken Screen,24,Yes,Greenfield Center,2025-03-09
+1025,Phone Case,Accessories,Performance Issues,14,Yes,SoMa Market,2025-02-16
+1026,Tablet,Electronics,Not Compatible,260,Yes,SoMa Market,2025-03-04
+1027,Headphones,Electronics,Warranty Claim,129,Yes,Sunnyvale Town,2025-03-12
+1028,Laptop,Electronics,Battery Issue,957,No,Riverdale Outlet,2025-03-11
+1029,Charger,Accessories,Battery Issue,24,No,Sunnyvale Town,2025-03-08
+1030,Bluetooth Speaker,Electronics,Changed Mind,73,Yes,Bayview Plaza,2025-01-03
+1031,Mouse,Accessories,Warranty Claim,22,Yes,Brooklyn Center,2025-01-10
+1032,Phone Case,Accessories,Not Compatible,13,Yes,Bayview Plaza,2025-01-10
+1033,Keyboard,Accessories,Not Compatible,42,No,Riverdale Outlet,2025-03-11
+1034,Laptop,Electronics,Performance Issues,971,Yes,Sunnyvale Town,2025-02-22
+1035,Charger,Accessories,Changed Mind,21,No,Bayview Plaza,2025-02-24
+1036,Camera,Electronics,Wrong Item Shipped,720,Yes,SoMa Market,2025-01-08
+1037,Camera,Electronics,Damaged on Arrival,708,Yes,Riverdale Outlet,2025-01-25
+1038,Charger,Accessories,Warranty Claim,24,No,Capitol Plaza,2025-02-05
+1039,Bluetooth Speaker,Electronics,Not Compatible,88,Yes,Sunnyvale Town,2025-03-12
+1040,Headphones,Electronics,Defective,125,Yes,SoMa Market,2025-01-31
+1041,Laptop,Electronics,Missing Accessories,945,Yes,Midtown Hub,2025-01-08
+1042,Laptop,Electronics,Missing Accessories,808,No,Lakeside Mall,2025-02-28
+1043,Tablet,Electronics,Missing Accessories,317,No,Capitol Plaza,2025-01-25
+1044,Tablet,Electronics,Not Compatible,342,Yes,Bayview Plaza,2025-01-08
+1045,Phone Case,Accessories,Performance Issues,14,Yes,Brooklyn Center,2025-03-07
+1046,Headphones,Electronics,Broken Screen,104,Yes,Riverdale Outlet,2025-02-21
+1047,Headphones,Electronics,Performance Issues,110,Yes,Harbor Point,2025-01-11
+1048,Camera,Electronics,Performance Issues,662,No,Lakeside Mall,2025-01-27
+1049,Smartwatch,Electronics,Not Compatible,185,Yes,Lakeside Mall,2025-02-28
+1050,Smartwatch,Electronics,Changed Mind,170,Yes,SoMa Market,2025-03-10
+1051,Charger,Accessories,Warranty Claim,23,No,SoMa Market,2025-02-01
+1052,Smartwatch,Electronics,Battery Issue,179,No,Harbor Point,2025-03-25
+1053,Keyboard,Accessories,Defective,47,No,SoMa Market,2025-01-18
+1054,Tablet,Electronics,Changed Mind,335,Yes,Lakeside Mall,2025-02-06
+1055,Mouse,Accessories,Not Compatible,26,Yes,Lakeside Mall,2025-03-06
+1056,Bluetooth Speaker,Electronics,Battery Issue,89,Yes,SoMa Market,2025-03-23
+1057,Camera,Electronics,Battery Issue,561,No,Capitol Plaza,2025-03-23
+1058,Tablet,Electronics,Broken Screen,321,No,Greenfield Center,2025-01-02
+1059,Headphones,Electronics,Changed Mind,136,Yes,Greenfield Center,2025-01-05
+1060,Smartwatch,Electronics,Performance Issues,203,No,Capitol Plaza,2025-01-06
+1061,Tablet,Electronics,Damaged on Arrival,335,Yes,Bayview Plaza,2025-01-27
+1062,Charger,Accessories,Changed Mind,23,No,Harbor Point,2025-01-20
+1063,Charger,Accessories,Broken Screen,28,Yes,Midtown Hub,2025-01-04
+1064,Laptop,Electronics,Damaged on Arrival,1030,No,Riverdale Outlet,2025-02-04
+1065,Laptop,Electronics,Changed Mind,916,Yes,Sunnyvale Town,2025-01-29
+1066,Charger,Accessories,Wrong Item Shipped,23,Yes,Riverdale Outlet,2025-01-04
+1067,Charger,Accessories,Missing Accessories,23,Yes,Lakeside Mall,2025-02-14
+1068,Keyboard,Accessories,Missing Accessories,47,No,Brooklyn Center,2025-01-15
+1069,Tablet,Electronics,Broken Screen,307,No,Brooklyn Center,2025-01-14
+1070,Mouse,Accessories,Missing Accessories,23,No,Midtown Hub,2025-03-19
+1071,Keyboard,Accessories,Changed Mind,43,Yes,Lakeside Mall,2025-01-06
+1072,Camera,Electronics,Defective,653,Yes,Bayview Plaza,2025-02-25
+1073,Headphones,Electronics,Damaged on Arrival,124,Yes,Lakeside Mall,2025-03-06
+1074,Tablet,Electronics,Missing Accessories,284,No,Greenfield Center,2025-01-17
+1075,Charger,Accessories,Missing Accessories,26,No,Capitol Plaza,2025-03-20
+1076,Mouse,Accessories,Battery Issue,24,Yes,Lakeside Mall,2025-02-06
+1077,Charger,Accessories,Missing Accessories,27,No,Sunnyvale Town,2025-02-26
+1078,Bluetooth Speaker,Electronics,Not Compatible,80,Yes,SoMa Market,2025-02-06
+1079,Keyboard,Accessories,Performance Issues,42,Yes,Lakeside Mall,2025-01-29
+1080,Charger,Accessories,Broken Screen,21,Yes,Sunnyvale Town,2025-03-20
+1081,Headphones,Electronics,Wrong Item Shipped,116,Yes,Midtown Hub,2025-03-05
+1082,Camera,Electronics,Not Compatible,581,Yes,SoMa Market,2025-02-24
+1083,Charger,Accessories,Broken Screen,27,No,Brooklyn Center,2025-03-13
+1084,Charger,Accessories,Changed Mind,24,No,Greenfield Center,2025-03-13
+1085,Mouse,Accessories,Damaged on Arrival,28,No,Harbor Point,2025-03-06
+1086,Camera,Electronics,Warranty Claim,639,Yes,Sunnyvale Town,2025-02-27
+1087,Tablet,Electronics,Not Compatible,330,No,Greenfield Center,2025-03-04
+1088,Charger,Accessories,Battery Issue,24,No,Riverdale Outlet,2025-02-04
+1089,Smartwatch,Electronics,Damaged on Arrival,223,Yes,Capitol Plaza,2025-01-20
+1090,Charger,Accessories,Missing Accessories,26,Yes,SoMa Market,2025-02-23
+1091,Camera,Electronics,Damaged on Arrival,658,No,Brooklyn Center,2025-01-27
+1092,Camera,Electronics,Missing Accessories,728,Yes,Harbor Point,2025-02-18
+1093,Bluetooth Speaker,Electronics,Defective,90,No,Midtown Hub,2025-02-23
+1094,Keyboard,Accessories,Warranty Claim,49,Yes,Sunnyvale Town,2025-01-29
+1095,Tablet,Electronics,Missing Accessories,298,No,Bayview Plaza,2025-03-27
+1096,Camera,Electronics,Broken Screen,716,Yes,Harbor Point,2025-03-10
+1097,Phone Case,Accessories,Missing Accessories,15,Yes,SoMa Market,2025-03-24
+1098,Camera,Electronics,Broken Screen,721,Yes,Brooklyn Center,2025-02-03
+1099,Camera,Electronics,Damaged on Arrival,593,No,Bayview Plaza,2025-02-18
+1100,Tablet,Electronics,Missing Accessories,277,Yes,Sunnyvale Town,2025-01-03
